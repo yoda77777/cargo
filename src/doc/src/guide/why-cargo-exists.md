@@ -46,11 +46,11 @@ To accomplish this goal, Cargo does four things:
 * Introduces conventions to make working with Rust packages easier.
 
 To a large extent, Cargo normalizes the commands needed to build a given
-program or library; this is one aspect to the above mentioned conventions. As
+program or library; this is one aspect of the above-mentioned conventions. As
 we show later, the same command can be used to build different
 [*artifacts*][def-artifact], regardless of their names. Rather than invoke
 `rustc` directly, you can instead invoke something generic such as `cargo
-build` and let cargo worry about constructing the correct `rustc`
+build` and let Cargo worry about constructing the correct `rustc`
 invocation. Furthermore, Cargo will automatically fetch any dependencies
 you have defined for your artifact from a [*registry*][def-registry],
 and arrange for them to be added into your build as needed.

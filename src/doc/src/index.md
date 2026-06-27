@@ -16,7 +16,7 @@ To get started with Cargo, install Cargo (and Rust) and set up your first
 
 **[Cargo Guide](guide/index.md)**
 
-The guide will give you all you need to know about how to use Cargo to develop
+The guide gives you everything you need to know about how to use Cargo to develop
 Rust packages.
 
 **[Cargo Reference](reference/index.md)**

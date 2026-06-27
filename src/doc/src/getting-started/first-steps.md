@@ -1,9 +1,9 @@
 # First Steps with Cargo
 
-This section provides a quick sense for the `cargo` command line tool. We
+This section provides a quick feel for the `cargo` command-line tool. We
 demonstrate its ability to generate a new [***package***][def-package] for us,
-its ability to compile the [***crate***][def-crate] within the package, and
-its ability to run the resulting program.
+compile the [***crate***][def-crate] within the package, and run the resulting
+program.
 
 To start a new package with Cargo, use `cargo new`:
 
